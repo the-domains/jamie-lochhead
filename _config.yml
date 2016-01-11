@@ -1,0 +1,28 @@
+name: Jamie Lochhead
+favicon: null
+layout_spectrum: 0.056138446321710944
+typography_spectrum: 0.8992104339413345
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.10528106987476349
+  lightness: 0.8564894101582468
+  saturation: 0.41218900005333126
+  rhythmicContrast: 0.10753039293922484
+purpose: []
